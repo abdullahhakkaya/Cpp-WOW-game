@@ -1,4 +1,5 @@
-#WOW GAME
+# WOW GAME
+
 Making a word of wonders game using raylib library in cpp language.
 
 The src folder contains the background image used in the application and the files of the boxes in the application.
